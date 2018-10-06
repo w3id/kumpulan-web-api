@@ -1,5 +1,9 @@
 ### Kumpulan Web API yang tersedia untuk Pengembangan Web yang lebih baik
 
+##### Web Audio API
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+- https://www.w3.org/TR/webaudio/
+
 ##### Web Authentication API
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
 
