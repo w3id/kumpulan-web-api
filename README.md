@@ -49,5 +49,9 @@
 - https://www.w3.org/TR/intersection-observer/
 - https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 
+##### WebVR API
+- https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API/Using_the_WebVR_API
+- https://mixedreality.mozilla.org/
+
 #### Ingin Menambahkan ?
 Silahkan di fork dan Kirim Pull-Request 
