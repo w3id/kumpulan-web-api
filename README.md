@@ -30,7 +30,8 @@
 ##### Web Geolocation API 
 - https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
-##### 
+##### Web Battery API
+- https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery
 
 
 #### Ingin Menambahkan ?
