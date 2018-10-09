@@ -51,7 +51,8 @@
 
 ##### Web Battery API
 - https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery
-  `NOTE: Mozilla sendiri telah mencabut API ini karena masalah Privacy, untuk sekarang API battery hanya berlaku di chrome, chrome mobile, & samsung mobile browser`
+  * **NOTE:** `Mozilla sendiri telah mencabut API ini karena masalah Privacy, untuk sekarang API battery hanya berlaku di chrome, chrome mobile, & samsung mobile browser`
+  * [Browser compatibility](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery#Browser_compatibility)
 
 ##### WebVR API
 - https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API/Using_the_WebVR_API
