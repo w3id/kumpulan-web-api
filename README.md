@@ -18,6 +18,7 @@
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API
 - https://www.w3.org/TR/netinfo-api/
+- https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine
 - ...
 
 ##### Web Performance API 
