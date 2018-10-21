@@ -44,6 +44,7 @@
 ##### Web Geolocation API 
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+- http://w3c.github.io/geolocation-api/
 
 ##### Intersection Observer API
 
