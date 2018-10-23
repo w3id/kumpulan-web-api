@@ -59,6 +59,7 @@
 ##### WebVR API
 - https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API/Using_the_WebVR_API
 - https://mixedreality.mozilla.org/
+- https://developers.google.com/web/fundamentals/vr/
 
 #### Ingin Menambahkan ?
 Silahkan di fork dan Kirim Pull-Request 
