@@ -35,7 +35,7 @@
 
 ##### Web Background API 
 
-- ...   
+- https://developers.google.com/web/updates/2015/12/background-sync 
 
 ##### Web Push Notification API
 
