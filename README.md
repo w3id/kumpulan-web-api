@@ -21,27 +21,27 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/NavigatorOnLine/onLine
 - ...
 
-##### Web Performance API 
+##### Web Performance API
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Performance
 - https://www.w3.org/webperf/
 - https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver
 - ...
 
-##### Web Bluetooth API 
+##### Web Bluetooth API
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API
 - https://webbluetoothcg.github.io/web-bluetooth/
 
-##### Web Background API 
+##### Web Background API
 
-- https://developers.google.com/web/updates/2015/12/background-sync 
+- https://developers.google.com/web/updates/2015/12/background-sync
 
 ##### Web Push Notification API
 
 - https://developers.google.com/web/fundamentals/push-notifications/   
 
-##### Web Geolocation API 
+##### Web Geolocation API
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 - http://w3c.github.io/geolocation-api/
@@ -59,7 +59,7 @@
 - https://www.chromestatus.com/feature/4537134732017664
 
 ##### Web Idle API
-- https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/API/Idle_API 
+- https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/API/Idle_API
   * **NOTE:** Related dengan Web Battery API*
 
 ##### WebVR API
@@ -71,5 +71,8 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API
 - https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays
 
+#### Web Workers API
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+
 #### Ingin Menambahkan ?
-Silahkan di fork dan Kirim Pull-Request 
+Silahkan di fork dan Kirim Pull-Request
