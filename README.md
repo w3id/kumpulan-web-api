@@ -71,5 +71,9 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API
 - https://developers.google.com/web/updates/2018/04/present-web-pages-to-secondary-attached-displays
 
+
+##### Web Music API
+- https://developer.spotify.com/
+
 #### Ingin Menambahkan ?
 Silahkan di fork dan Kirim Pull-Request 
